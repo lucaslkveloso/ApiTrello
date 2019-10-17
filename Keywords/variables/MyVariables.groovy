@@ -14,8 +14,8 @@ public class MyVariables {
 	public static String idBoard= '5da8eb58bb9ad8810b3d53a1'
 
 	//Token
-	public static String apiKey= '&key=71b913f6085b75dca976bea8ee65eae2'
-	public static String apiKeyDelete= '?key=71b913f6085b75dca976bea8ee65eae2'
-	public static String apiToken= '&token=682fefa846d2885597c1223a5d90abdd3c88e8f222354c1c3422e526657eb542'
+	public static String apiKey= '&key=71b913f6085b75dhdsuihdaea8ee65eae2'
+	public static String apiKeyDelete= '?key=71b91daush5dca976bea8ee65eae2'
+	public static String apiToken= '&token=682fhduiashd223add3c88e8f222354c2e526657eb542'
 
 }
