@@ -1,4 +1,4 @@
-# TesteApiTrello
+# ApiTrello
 Automação da api do trello efetuada com Katalon
 Para utilizar a api basta acessar a página https://developers.trello.com/reference/#introduction e seguir as instruções
 
