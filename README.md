@@ -7,7 +7,7 @@ Para utilizar a api basta acessar a página https://developers.trello.com/refere
 - Clonar o repositório
 - Abrir o repositorio em File> Open Project
 - Gerar ApiKey através da api do trello https://trello.com/app-key
-- Gerar o Token através seguindo instruções da mesma página
+- Gerar o Token seguindo as instruções da mesma página
 - No projeto abrir a pasta Keywords > variables > MyVariables
 - *Incluir os tokens gerados na string após o **&key=**, **?key=** e **&token=**
 - Para executar os testes você pode criar um quadro manualmente no Trello e copiar o id da url, incluindo o id no arquivo MyVariables em **idBoard**
