@@ -1,0 +1,1566 @@
+{
+	"areas" : [
+		{
+			"area":"mainmenu",
+			"data":[
+				{
+					"tag":"pressstart",
+					"val":"PULSA"
+				},
+				{
+					"tag":"loading",
+					"val":"CARGANDO DATOS GUARDADOS…"
+				},
+				{
+					"tag":"continue",
+					"val":"CONTINUAR"
+				},
+				{
+					"tag":"newgame",
+					"val":"NUEVA PARTIDA"
+				},
+				{
+					"tag":"options",
+					"val":"OPCIONES"
+				},
+				{
+					"tag":"exit",
+					"val":"SALIR"
+				},
+				{
+					"tag":"accountpicker",
+					"val":" PARA ABRIR EL SELECTOR DE CUENTAS"
+				}
+			]
+		},
+		{
+			"area":"options",
+			"data":[
+				{
+					"tag":"title",
+					"val":"OPCIONES"
+				},
+				{
+					"tag":"screensize",
+					"val":"TAMAÑO DE LA PANTALLA"
+				},
+				{
+					"tag":"fullscreen",
+					"val":"PANTALLA COMPLETA"
+				},
+				{
+					"tag":"graphics",
+					"val":"AJUSTES GRÁFICOS"
+				},
+				{
+					"tag":"huesettings",
+					"val":"AJUSTES DE HUE"
+				},
+				{
+					"tag":"setuphue",
+					"val":"CONFIGURAR HUE"
+				},
+				{
+					"tag":"ingamehelpers",
+					"val":"AYUDA EN EL JUEGO"
+				},
+				{
+					"tag":"editkeybindings",
+					"val":"EDITAR ASIGNACIONES"
+				},
+				{
+					"tag":"musicvolume",
+					"val":"MÚSICA"
+				},
+				{
+					"tag":"sfxvolume",
+					"val":"SONIDO"
+				},
+				{
+					"tag":"enabled",
+					"val":"Activado"
+				},
+				{
+					"tag":"disabled",
+					"val":"Desactivado"
+				},
+				{
+					"tag":"windowed",
+					"val":"En ventana"
+				},
+				{
+					"tag":"fullscreenoption",
+					"val":"Pantalla completa"
+				},
+				{
+					"tag":"high",
+					"val":"Alta"
+				},
+				{
+					"tag":"medium",
+					"val":"Media"
+				},
+				{
+					"tag":"low",
+					"val":"Baja"
+				},
+				{
+					"tag":"yes",
+					"val":"Sí"
+				},
+				{
+					"tag":"no",
+					"val":"No"
+				},
+				{
+					"tag":"ok",
+					"val":"Vale"
+				}
+			]
+		},
+		{
+			"area":"fader",
+			"data":[
+				{
+					"tag":"loading",
+					"val":"CARGANDO…"
+				},
+				{
+					"tag":"saving",
+					"val":"GUARDANDO…"
+				}
+			]
+		},
+		{
+			"area":"huemenu",
+			"data":[
+				{
+					"tag":"title",
+					"val":"AJUSTES DE HUE"
+				},
+				{
+					"tag":"presssync",
+					"val":"PULSA EL BOTÓN DE SINCRONIZACIÓN EN EL PUENTE HUE"
+				},
+				{
+					"tag":"connect",
+					"val":"CONECTAR"
+				},
+				{
+					"tag":"disconnect",
+					"val":"DESCONECTAR"
+				},
+				{
+					"tag":"lights",
+					"val":"Luces"
+				},
+				{
+					"tag":"pressconnect",
+					"val":"Pulsa el botón de conexión en el puente Hue"
+				}
+			]
+		},
+		{
+			"area":"keybindingsmenu",
+			"data":[
+				{
+					"tag":"title",
+					"val":"ASIGNACIONES"
+				},
+				{
+					"tag":"pickup",
+					"val":"RECOGER / SOLTAR"
+				},
+				{
+					"tag":"useitem",
+					"val":"USAR OBJETO"
+				},
+				{
+					"tag":"sprint",
+					"val":"CORRER"
+				},
+				{
+					"tag":"switch",
+					"val":"CAMBIAR DE PERSONAJE"
+				},
+				{
+					"tag":"save",
+					"val":"GUARDAR"
+				}
+			]
+		},
+		{
+			"area":"hub",
+			"data":[
+				{
+					"tag":"confirmlevel",
+					"val":"PARA CONFIRMAR EL NIVEL"
+				},
+				{
+					"tag":"continue",
+					"val":"CONTINUAR PARTIDA"
+				},
+				{
+					"tag":"signout",
+					"val":"CERRAR SESIÓN"
+				},
+				{
+					"tag":"quit",
+					"val":"SALIR"
+				},
+				{
+					"tag":"level",
+					"val":"Nivel"
+				},
+				{
+					"tag":"besttime",
+					"val":"Récord"
+				},
+				{
+					"tag":"time",
+					"val":"Hora"
+				},
+				{
+					"tag":"notavailable",
+					"val":"ND"
+				},
+				{
+					"tag":"tutorial",
+					"val":"Tutorial"
+				},
+				{
+					"tag":"characterunlocked",
+					"val":"¡PERSONAJE DESBLOQUEADO!"
+				}
+			]
+		},
+		{
+			"area":"characterselect",
+			"data":[
+				{
+					"tag":"holdtoreturn",
+					"val":"PARA VOLVER (MANTENER)"
+				},
+				{
+					"tag":"presstoplay",
+					"val":"INICIAR PARTIDA"
+				},
+				{
+					"tag":"tojoin",
+					"val":"UNIRSE"
+				}
+			]
+		},
+		{
+			"area":"gameover",
+			"data":[
+				{
+					"tag":"title",
+					"val":"NIVEL PERDIDO"
+				},
+				{
+					"tag":"restart",
+					"val":"REINICIAR NIVEL"
+				},
+				{
+					"tag":"return",
+					"val":"VOLVER AL CENTRO"
+				}
+			]
+		},
+		{
+			"area":"postgame",
+			"data":[
+				{
+					"tag":"title",
+					"val":"¡NIVEL COMPLETADO!"
+				}
+			]
+		},
+		{
+			"area":"pausemenu",
+			"data":[
+				{
+					"tag":"title",
+					"val":"%f EN PAUSA"
+				},
+				{
+					"tag":"continue",
+					"val":"CONTINUAR PARTIDA"
+				},
+				{
+					"tag":"restart",
+					"val":"REINICIAR NIVEL"
+				}
+			]
+		},
+		{
+			"area":"gameplay",
+			"data":[
+				{
+					"tag":"missiledoor",
+					"val":"¡Abre la esclusa de misiles!"
+				},
+				{
+					"tag":"missileincoming",
+					"val":"¡Se avecina un misil!"
+				},
+				{
+					"tag":"solarflare",
+					"val":"¡DESCARGA SOLAR INMINENTE!"
+				},
+				{
+					"tag":"flashfreeze",
+					"val":"¡LUZ CONGELADORA INMINENTE!"
+				},
+				{
+					"tag":"extractiondoor",
+					"val":"¡LA PUERTA DE EXTRACCIÓN ESTÁ ABRIÉNDOSE!"
+				},
+				{
+					"tag":"tutorial",
+					"val":"PARA CONTINUAR"
+				},
+				{
+					"tag":"go",
+					"val":"Ir"
+				},
+				{
+					"tag":"selfdestruct",
+					"val":"Autodestrucción iniciada"
+				},
+				{
+					"tag":"selfdestructcountdown",
+					"val":"Autodestrucción en: %f"
+				}
+			]
+		},
+		{
+			"area":"reconnectcontrollerdialog",
+			"data":[
+				{
+					"tag":"title",
+					"val":"EL JUGADOR %f SE HA DESCONECTADO"
+				},
+				{
+					"tag":"toreconnect",
+					"val":"Para volver a conectarse"
+				}
+			]
+		},
+		{
+			"area":"shared",
+			"data":[
+				{
+					"tag":"apply",
+					"val":"APLICAR"
+				},
+				{
+					"tag":"back",
+					"val":"VOLVER"
+				},
+				{
+					"tag":"hold",
+					"val":"MANTENER"
+				},
+				{
+					"tag":"press",
+					"val":"PULSAR"
+				},
+				{
+					"tag":"quit",
+					"val":"SALIR"
+				}
+			]
+		},
+		{
+			"area":"hubstart",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"¡No hay tiempo que perder, cadetes! ¡Tenemos ataques quazard en todos los sectores! ¡Hay muchas estadísticas por conseguir!",
+					"character":"b"
+				},
+				{
+					"tag":"text2",
+					"val":"Además, Sarge, la Flota Espacial y la Tierra corren grave peligro. ¡Así que todos a sus puestos!",
+					"character":"b"
+				},
+				{
+					"tag":"text3",
+					"val":"¡Es un placer conocerte, por cierto! Soy la BIORRED ORGANIZADORA TÁCTICA OMNIUNIVERSAL NATIVA EXTRADESTRUCTIVA SIETE.",
+					"character":"b"
+				},
+				{
+					"tag":"text4",
+					"val":"Puedes llamarme Buttons. ¡Todo el mundo me llama así! Bueno, y ahora vayamos a ese dat… Uy, es decir, ¡a salvar la galaxia!",
+					"character":"b"
+				}
+			]
+		},
+		{
+			"area":"hub1complete",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"Buen trabajo. Supongo. Pero esto no es más que el principio. ¡Regresa el lagartastre más grande de la galaxia!",
+					"character":"z"
+				},
+				{
+					"tag":"text2",
+					"val":"¡SOCORRO! ¡Daos prisa, Flota Espacial! Sois mi única espe…",
+					"character":"s"
+				},
+				{
+					"tag":"text3",
+					"val":"Un momento… ¡Dije que lo mantuvieseis encerrado! No me digáis más… ¿Lo estaba vigilando Jim?",
+					"character":"z"
+				},
+				{
+					"tag":"text4",
+					"val":"¡Datos insuficientes! ¡Debemos reducir aún más las filas de la flota enemiga para atrapar la nave de Zastral!",
+					"character":"b"
+				}
+			]
+		},
+		{
+			"area":"hub2complete",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"¡Pst! ¡Cadetes! Soy yo. ¡Vaya! Se comenta en cubierta que estáis montando un buen revuelo… ¡Así se hace!",
+					"character":"s"
+				},
+				{
+					"tag":"text2",
+					"val":"No os preocupéis por mí. Mi diplomacia y elegancia han encandilado a mi nuevo guardia.",
+					"character":"s"
+				},
+				{
+					"tag":"text3",
+					"val":"Aunque pobre Jim… Como me dejó escapar, lo han destinado a las letrinas… La guerra es algo terrible, cadetes.",
+					"character":"s"
+				},
+				{
+					"tag":"text4",
+					"val":"Seguid acabando con la flota de Zastral. Nos encontraréis. ¡Buena suerte!",
+					"character":"s"
+				}
+			]
+		},
+		{
+			"area":"hub3complete",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"¡Ah, cadetes! Tengo que daros las gracias. Me iba a pasar toda la tarde reestructurando mi flota.",
+					"character":"z"
+				},
+				{
+					"tag":"text2",
+					"val":"¿Sabéis el engorro que es librarte de los súbditos más inútiles? ¡Pero si ya los reventáis vosotros, me ahorráis el trabajo!",
+					"character":"z"
+				},
+				{
+					"tag":"text3",
+					"val":"Ahora tendré la tarde libre. Creo que me echaré una buena siestecita. Es más, me la voy a echar ahora mismo. ¡Fin de la transmisión!",
+					"character":"z"
+				},
+				{
+					"tag":"text4",
+					"val":"¡Datos insuficientes! Ya casi he fijado su señal, cadetes. ¡Seguid así!",
+					"character":"b"
+				}
+			]
+		},
+		{
+			"area":"hub4complete",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"… Es innegable. Hacerme jaque en el hiperespacio… ¡es algo brillante! ¿Más té, Sarge?",
+					"character":"z"
+				},
+				{
+					"tag":"text2",
+					"val":"Ah, pues sí, gracias. Como iba diciendo, lo adaptamos de nuestra tecnología de delfines espa…",
+					"character":"s"
+				},
+				{
+					"tag":"text3",
+					"val":"Un momento… ¿Cómo dices, Jim? ¡¿Que somos QUÉ?! ¡VOY A HACERME UNAS BOTAS CON TU PIEL, JIM!",
+					"character":"z"
+				},
+				{
+					"tag":"text4",
+					"val":"¡Igual que con la Flota Espacial! ¿Me habéis oído, cadetes? ¡VAIS A SER BOTAS! ¡O un BOLSO PRECIOSO! ¡FIN DE LA TRANSMISIÓN!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"hub5complete",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"Así que… Habéis derrotado a lo peor que tenía en mi flota. Y también a los que bueno, bien.",
+					"character":"z"
+				},
+				{
+					"tag":"text2",
+					"val":"Y a los que eran bastante buenos, también. Pero ¿y qué? Ahora os enfrentaréis a los quazards más crueles de la galaxia.",
+					"character":"z"
+				},
+				{
+					"tag":"text3",
+					"val":"Son despiadados y de sangre fría. Mmm… Bueno, sí, ya sé que todos los quazards son de sangre fría, ¡pero estos son gélidos como el hielo!",
+					"character":"z"
+				},
+				{
+					"tag":"text4",
+					"val":"¡No tenéis nada que hacer, Flota Espacial! ¡Mua, ja, ja, ja!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"hub6preboss",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"¡Cadetes! Hemos localizado la nave de Zastran. Activando los motores de salto…",
+					"character":"b"
+				},
+				{
+					"tag":"text2",
+					"val":"¿En serio queréis enfrentaros a Zastral? ¡Pues venga, vamos allá! ¡Todo a punto!",
+					"character":"z"
+				},
+				{
+					"tag":"text3",
+					"val":"¡Soy el quazard más malo, más fuerte y más cornudo de la galaxia! ¡De todo el universo!",
+					"character":"z"
+				},
+				{
+					"tag":"text4",
+					"val":"¡Esperad, cadetes! ¡SALTO PREPARADO!",
+					"character":"b"
+				},
+				{
+					"tag":"text5",
+					"val":"¡VAMOS ALLÁ, FLOTA ESPACIAL!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"hubbark",
+			"data":[
+				{
+					"tag":"good1",
+					"val":"¡He cargado los últimos gritos del enemigo al registro histórico!",
+					"character":"b"
+				},
+				{
+					"tag":"good2",
+					"val":"¡Esta violencia es el estándar al que aspira la Flota Espacial!",
+					"character":"b"
+				},
+				{
+					"tag":"good3",
+					"val":"¡La historia festejará esta victoria tan clara!",
+					"character":"b"
+				},
+				{
+					"tag":"good4",
+					"val":"O el resto de la Flota Espacial da asco ¡o vosotros sois la caña! Necesitaré más datos para confirmarlo.",
+					"character":"b"
+				},
+				{
+					"tag":"good5",
+					"val":"Hay muchos cadetes que podrían aprender de vosotros… ¡si no hubiesen muerto todos!",
+					"character":"b"
+				},
+				{
+					"tag":"bad1",
+					"val":"La última batalla la he guardado con el nombre de: Cosas que no se deben hacer.",
+					"character":"b"
+				},
+				{
+					"tag":"bad2",
+					"val":"¡Gracias a vosotros, los archivos de la Flota Espacial contarán con un mal ejemplo excelente!",
+					"character":"b"
+				},
+				{
+					"tag":"bad3",
+					"val":"Hemos obtenido mucha información sobre la capacidad de ataque del enemigo. ¡Buen trabajo!",
+					"character":"b"
+				},
+				{
+					"tag":"bad4",
+					"val":"Borrando el vídeo del último combate. ¡Nadie volverá a poner en peligro la moral de la Flota Espacial!",
+					"character":"b"
+				},
+				{
+					"tag":"bad5",
+					"val":"Esto podría haber acabado mucho peor. ¡Tengo un archivo de últimos gritos de la Flota Espacial que lo demuestra!",
+					"character":"b"
+				}
+			]
+		},
+		{
+			"area":"brokenenglishbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"¡Tenéis buenos cuernos! ¡Ja, ja! En realidad no. ¡No tenéis cuernos, sincuernos! ¡Ja, ja, ja, ja!",
+					"character":"e1"
+				},
+				{
+					"tag":"bark2",
+					"val":"¡Eh! ¿No tenéis escamas? ¿Podéis mudar de piel? ¿No? ¡Qué pena! ¡Deberíais! ¡Qué sinescamas tan horribles! ¡Ja, ja, ja!",
+					"character":"e1"
+				},
+				{
+					"tag":"bark3",
+					"val":"¡Blandurrios! ¿Es cierto que no nacéis de huevos? ¡Qué asco! ¡Dais asco, sinhuevos! ¡Ja, ja, ja, ja!",
+					"character":"e1"
+				},
+				{
+					"tag":"bark4",
+					"val":"¡Sangre caliente! ¡¿Cómo podéis vivir así?! ¡Sois pegajosos! ¡Y sudáis! ¡Ja, ja, ja, ja!",
+					"character":"e1"
+				},
+				{
+					"tag":"bark5",
+					"val":"¡Comeplantas blandengues! Anda que comer patatas… No, si me parece bien. ¡Así estáis más sabrosos! ¡Ja, ja, ja, ja!",
+					"character":"e1"
+				}
+			]
+		},
+		{
+			"area":"stupidbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"¡EL LÁSER DESMONTADOR DE PARTÍCULAS HIPERESTÁTICO REVIENTA A TODOS LOS MALOS!",
+					"character":"e2"
+				},
+				{
+					"tag":"bark2",
+					"val":"¡OS APUNTAMOS CON UN GRAN LÁSER NUEVECITO DE FISIÓN MOLECULAR! ¡ARDED Y ADIÓS!",
+					"character":"e2"
+				},
+				{
+					"tag":"bark3",
+					"val":"¡HACEMOS GRAN AGUJERO EN LA NAVE MALA! ¡A VER SI REÍS CUANDO OS ABSORBA EL GÉLIDO ESPACIO!",
+					"character":"e2"
+				},
+				{
+					"tag":"bark4",
+					"val":"¡TENEMOS UNA IDEA! HACEMOS GRAN AGUJERO EN NAVE MALA… ¡EL FUEGO AGOTA EL OXÍGENO Y OS AHOGA! ¡Y GANAMOS!",
+					"character":"e2"
+				},
+				{
+					"tag":"bark5",
+					"val":"DEFENSA ÍNFIMA DE NAVE CONTRA EL GÉLIDO ABISMO DEL ESPACIO VACÍO. ¡DESTROZAMOS NAVE! ¡MALOS A PASEO!",
+					"character":"e2"
+				}
+			]
+		},
+		{
+			"area":"mafiabarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"¡La habéis tomado con los quazards equivocados! ¡Somos duros! ¡Tenemos escamas! ¡Tenemos cuernos! ¡Y os vamos a dar para el pelo!",
+					"character":"e3"
+				},
+				{
+					"tag":"bark2",
+					"val":"Una pena que tengamos que hacer una barbacoa con vosotros. ¡Vaya, parecéis muy apetecibles y ricos!",
+					"character":"e3"
+				},
+				{
+					"tag":"bark3",
+					"val":"Huid si no queréis sufrir. ¡Era broma! Os vamos a reventar de todas formas.",
+					"character":"e3"
+				},
+				{
+					"tag":"bark4",
+					"val":"¡Coged las mantas y las almohadas! Esta noche, vais a dormir con los peces lunares.",
+					"character":"e3"
+				},
+				{
+					"tag":"bark5",
+					"val":"¡Si el jefe no se hubiese cargado la cárcel, nos pasaríamos el resto de la vida en la Prisión Estelar por lo que vamos a hacer!",
+					"character":"e3"
+				}
+			]
+		},
+		{
+			"area":"aristocratbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"Sed majos y perded pronto, ¿vale? Que tengo que seguir puliéndome los cuernos.",
+					"character":"e4"
+				},
+				{
+					"tag":"bark2",
+					"val":"Voy a ganar. ¿Sabéis por qué? Por la sangre fría. Nunca me enfado con mi tripulación, ¡y mucho menos con mis amigos!",
+					"character":"e4"
+				},
+				{
+					"tag":"bark3",
+					"val":"Tengo tantas medallas como escamas. ¡Sois idiotas por enfrentaros a mí!",
+					"character":"e4"
+				},
+				{
+					"tag":"bark4",
+					"val":"Puedo paladear vuestro miedo incluso a través del vacío del espacio. Sabe a saltadores de estrellas. Qué rico.",
+					"character":"e4"
+				},
+				{
+					"tag":"bark5",
+					"val":"Quiero que lo sepáis: no os ataco por motivos personales, pero no por ello disfruto menos con todo esto.",
+					"character":"e4"
+				}
+			]
+		},
+		{
+			"area":"punnybarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"Escuchad. Aquí va a haber un perdedor, pero no voy a ser yo.",
+					"character":"e5"
+				},
+				{
+					"tag":"bark2",
+					"val":"Dicen que peco de crueldad y de sadismo. Que sufro de disfunción reptil. ¡Haré lo que sea necesario con tal de ganar!",
+					"character":"e5"
+				},
+				{
+					"tag":"bark3",
+					"val":"Creo que la escama se decantará a nuestro favor.",
+					"character":"e5"
+				},
+				{
+					"tag":"bark4",
+					"val":"Buscáis a Zastral, ¿eh? ¿Habéis mirado ya en Urano?",
+					"character":"e5"
+				},
+				{
+					"tag":"bark5",
+					"val":"¡Estáis a punto de hacer frente al lagartastre! (Un momento… ¿Zastral ha usado ya ese chiste? ¡Vaya, qué bueno es!)",
+					"character":"e5"
+				}
+			]
+		},
+		{
+			"area":"tutorial",
+			"data":[
+				{
+					"tag":"intro",
+					"val":"¡Cadetes espaciales! Bienvenidos a la sala de entrenamiento.",
+					"character":"s"
+				},
+				{
+					"tag":"button",
+					"val":"Usad el botón para seguir adelante. ¡El botón, chicos! ¡Pip, pip!",
+					"character":"s"
+				},
+				{
+					"tag":"buttonreminder",
+					"val":"¡Venga, vamos! ¡Usad el botón para avanzar!",
+					"character":"s"
+				},
+				{
+					"tag":"fire",
+					"val":"Cielos, ¡un incendio! ¡Coged un extintor y apagadlo!",
+					"character":"s"
+				},
+				{
+					"tag":"firereminder",
+					"val":"¡Cielos! ¡El fuego no se detiene! ¡Usad un extintor para apagarlo!",
+					"character":"s"
+				},
+				{
+					"tag":"brokendoor",
+					"val":"¡Una puerta rota! Pero ¿qué…? ¡Arreglad las grietas y el botón para abrirla!",
+					"character":"s"
+				},
+				{
+					"tag":"brokendoorreminder",
+					"val":"¡Algo me dice que esa puerta no se abrirá hasta que arregléis los daños del casco y el botón!",
+					"character":"s"
+				},
+				{
+					"tag":"shoot",
+					"val":"¡Disparad, cadetes! Dadles un buen meneo a vuestros objetivos.",
+					"character":"s"
+				},
+				{
+					"tag":"shootreminder",
+					"val":"Los objetivos no se van a destruir solos, cadetes. ¡Disparad las armas!",
+					"character":"s"
+				},
+				{
+					"tag":"end",
+					"val":"¡Un trabajo excelente! Ya sois cadetes hechos y derechos. ¡Es hora de la ceremonia de graduación!",
+					"character":"s"
+				}
+			]
+		},
+		{
+			"area":"finalboss",
+			"data":[
+				{
+					"tag":"newguns",
+					"val":"¿Os gustan los láseres? ¡Pues vale! ¡Muy bien! ¡Os voy a enseñar unos láseres bien gordos!",
+					"character":"z"
+				},
+				{
+					"tag":"enraged",
+					"val":"¡Desviad la energía de la enfermería a las armas! ¡Ahora, las armas serán nuestro soporte vital!",
+					"character":"z"
+				},
+				{
+					"tag":"death",
+					"val":"No… ¡No! ¡Esto no se ha acabado! ¡Ya lo veréis! ¡Volveré, Flota Espacial! ¡Tendré mi venganza!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"finalbossbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"Esta noche, acompañaréis al Sarge en la cena, cadetes. ¡Mi chef preparará un delicioso estofado de Flota Espacial!",
+					"character":"z"
+				},
+				{
+					"tag":"bark2",
+					"val":"¿Tantas ganas tenéis de recuperar al Sarge? ¡Pues venid a por él!",
+					"character":"z"
+				},
+				{
+					"tag":"bark3",
+					"val":"Solo un comandante de la Flota Espacial consiguió derrotarme: vuestro delicioso Sarge. ¡No tenéis nada que hacer!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"finalbosshighbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"¡Así nunca lograréis fracturar mis escamas, Flota Espacial!",
+					"character":"z"
+				},
+				{
+					"tag":"bark2",
+					"val":"¡No hay mejor comandante que yo! ¡No tenéis nada que hacer!",
+					"character":"z"
+				},
+				{
+					"tag":"bark3",
+					"val":"He reventado a gente mejor que vosotros. ¡Deberíais sentiros honrados de poder uniros a esa gente!",
+					"character":"z"
+				},
+				{
+					"tag":"bark4",
+					"val":"¡Cuando haya acabado con vosotros, la Flota Espacial será historia!",
+					"character":"z"
+				},
+				{
+					"tag":"bark5",
+					"val":"¡Mis tácticas no tienen rival! ¡Estáis acabados!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"finalbossmedbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"¡No os creáis buenos! ¡Mi tripulación tiene el día tonto! ¿Me habéis oído? ¡Sois tontos!",
+					"character":"z"
+				},
+				{
+					"tag":"bark2",
+					"val":"¡Esto no es más que el calentamiento! (¡Calentad más rápido, so lerdos!)",
+					"character":"z"
+				},
+				{
+					"tag":"bark3",
+					"val":"¡Habéis tardado tanto en encontrarnos que el equipo está oxidado! ¡Tan solo ha sido eso!",
+					"character":"z"
+				},
+				{
+					"tag":"bark4",
+					"val":"Quiero que sepáis que, tras nuestra victoria, voy a tener unas palabritas con mi tripulación de ceporros.",
+					"character":"z"
+				},
+				{
+					"tag":"bark5",
+					"val":"Para que conste: soy capitaneo de maravilla, ¡pero mi estúpida tripulación no me hace ni caso!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"finalbosslowbarks",
+			"data":[
+				{
+					"tag":"bark1",
+					"val":"¡¿Por qué mi tripulación no mejora?!",
+					"character":"z"
+				},
+				{
+					"tag":"bark2",
+					"val":"¿Por qué debería enfrentarme a esos perdedores?",
+					"character":"z"
+				},
+				{
+					"tag":"bark3",
+					"val":"¡Idiotas! ¡Estoy en una nave llena de idiotas!",
+					"character":"z"
+				},
+				{
+					"tag":"bark4",
+					"val":"¿Por qué recluté a semejantes ceporros?",
+					"character":"z"
+				},
+				{
+					"tag":"bark5",
+					"val":"¡No es justo! ¡Pese a mi gran habilidad, voy a perder por una tripulación de cazurros!",
+					"character":"z"
+				}
+			]
+		},
+		{
+			"area":"introcutscene",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"Me complace otorgar estas brillantes medallas de oro a nuestros nuevos cadetes espaciales. ¡Hip, hip! ¡Hurraaa!",
+					"character":"s"
+				},
+				{
+					"tag":"text2",
+					"val":"En estos cadetes, veo virtudes que…",
+					"character":"s"
+				},
+				{
+					"tag":"text3",
+					"val":"¡Cielos!",
+					"character":"s"
+				},
+				{
+					"tag":"text4",
+					"val":"¡Eso es, Sarge! ¡He salido de la Prisión Estelar y quiero vengarme!",
+					"character":"z"
+				},
+				{
+					"tag":"text5",
+					"val":"Venga, divirtámonos…",
+					"character":"z"
+				},
+				{
+					"tag":"text6",
+					"val":"¡Glups!",
+					"character":"s"
+				}
+			]
+		},
+		{
+			"area":"finalcutscene",
+			"data":[
+				{
+					"tag":"text1",
+					"val":"Vale, veamos. ¿Dónde lo habíamos dejado? ¡Jo, jo!",
+					"character":"s"
+				},
+				{
+					"tag":"text2",
+					"val":"¡Hip, hip! ¡Hurraaa!",
+					"character":"s"
+				}
+			]
+		},
+		{
+			"area":"resetmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Reiniciar progresos de la Carrera"
+				},
+				{
+					"tag":"desc",
+					"val":"¿Seguro que quieres reiniciar tus progresos?"
+				}
+			]
+		},
+		{
+			"area":"autosavemessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Notificación de guardado automático"
+				},
+				{
+					"tag":"desc",
+					"val":"Este juego cuenta con una función de guardado automático. No salgas del juego mientras veas el icono de guardado automático."
+				}
+			]
+		},
+		{
+			"area":"overwritedatamessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Se van a sobrescribir los datos guardados"
+				},
+				{
+					"tag":"desc",
+					"val":"Estás a punto de empezar una nueva partida. Al hacerlo, sobrescribirás tus progresos anteriores. ¿Continuar?"
+				}
+			]
+		},
+		{
+			"area":"responsefailedmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"No ha sido posible unirse a tu amigo"
+				},
+				{
+					"tag":"desc",
+					"val":"No hay suficientes espacios libres para unirse al grupo de tu amigo."
+				}
+			]
+		},
+		{
+			"area":"hueinternetmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Error al conectarse a Internet"
+				},
+				{
+					"tag":"desc",
+					"val":"En estos momentos, no es posible conectarse a Internet. Asegúrate de que esto funciona antes de volver a intentarlo."
+				}
+			]
+		},
+		{
+			"area":"bridgenotfoundmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"No se puede encontrar el puente Hue"
+				},
+				{
+					"tag":"desc",
+					"val":"Asegúrate de que el puente Hue esté conectado correctamente."
+				}
+			]
+		},
+		{
+			"area":"huecannotconnectmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"No se puede conectar"
+				},
+				{
+					"tag":"desc",
+					"val":"No ha sido posible conectarse a Hue. Vuelve a intentarlo."
+				}
+			]
+		},
+		{
+			"area":"localisationmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Faltan los archivos de localización"
+				},
+				{
+					"tag":"desc",
+					"val":"No ha sido posible encontrar los archivos de localización correspondientes."
+				}
+			]
+		},
+		{
+			"area":"loggedinasguestmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Sesión iniciada como invitado"
+				},
+				{
+					"tag":"desc",
+					"val":"Has iniciado sesión como invitado. No se guardarán tus progresos."
+				}
+			]
+		},
+		{
+			"area":"cannotsaveguestmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"No se pueden guardar datos"
+				},
+				{
+					"tag":"desc",
+					"val":"Catastronauts está intentando guardar los datos, pero no puede hacerlo con una cuenta de invitado. Al cerrar sesión se perderán todos los progresos."
+				}
+			]
+		},
+		{
+			"area":"failedtrophiesmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"No se han podido registrar los trofeos"
+				},
+				{
+					"tag":"desc",
+					"val":"El registro del paquete de trofeos dio el siguiente error: %f."
+				}
+			]
+		},
+		{
+			"area":"corrupteddatamessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Datos dañados"
+				},
+				{
+					"tag":"desc",
+					"val":"Los datos de la partida guardada están dañados. ¿Deseas sobrescribirlos?"
+				}
+			]
+		},
+		{
+			"area":"notmountedmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Datos guardados no montados"
+				},
+				{
+					"tag":"desc",
+					"val":"Los datos guardados no pueden ser montados. ¿Quieres volver a intentarlo?"
+				}
+			]
+		},
+		{
+			"area":"corruptedtryagainmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Datos dañados"
+				},
+				{
+					"tag":"desc",
+					"val":"Los datos de la partida guardada están dañados. ¿Quieres volver a intentarlo?"
+				}
+			]
+		},
+		{
+			"area":"saveerrormessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Error al guardar"
+				},
+				{
+					"tag":"desc",
+					"val":"Se ha producido un error al guardar. ¿Quieres volver a intentarlo?"
+				}
+			]
+		},
+		{
+			"area":"crispytitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Crujiente"
+				},
+				{
+					"tag":"desc",
+					"val":"Más tiempo en llamas"
+				}
+			]
+		},
+		{
+			"area":"pyrophobictitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Fobia al fuego"
+				},
+				{
+					"tag":"desc",
+					"val":"Nunca te has quemado"
+				}
+			]
+		},
+		{
+			"area":"meatshieldtitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Escudo de carne"
+				},
+				{
+					"tag":"desc",
+					"val":"Has perdido más salud que nadie"
+				}
+			]
+		},
+		{
+			"area":"untouchabletitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Intocable"
+				},
+				{
+					"tag":"desc",
+					"val":"No has perdido nada de salud"
+				}
+			]
+		},
+		{
+			"area":"gunshytitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Timidez"
+				},
+				{
+					"tag":"desc",
+					"val":"Nunca disparaste un arma"
+				}
+			]
+		},
+		{
+			"area":"triggerhappytitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"De gatillo fácil"
+				},
+				{
+					"tag":"desc",
+					"val":"Has disparado un montón de armas"
+				}
+			]
+		},
+		{
+			"area":"firefightertitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Bombero"
+				},
+				{
+					"tag":"desc",
+					"val":"Has apagado más fuegos que nadie"
+				}
+			]
+		},
+		{
+			"area":"hypertitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Híper"
+				},
+				{
+					"tag":"desc",
+					"val":"Has llegado más lejos que nadie"
+				}
+			]
+		},
+		{
+			"area":"campertitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Campista"
+				},
+				{
+					"tag":"desc",
+					"val":"No has viajado casi nada"
+				}
+			]
+		},
+		{
+			"area":"diehardtitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Duro de matar"
+				},
+				{
+					"tag":"desc",
+					"val":"Has muerto más que nadie"
+				}
+			]
+		},
+		{
+			"area":"ironmantitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Eres de hierro"
+				},
+				{
+					"tag":"desc",
+					"val":"No has muerto nunca"
+				}
+			]
+		},
+		{
+			"area":"magpietitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Urraca"
+				},
+				{
+					"tag":"desc",
+					"val":"Has robado más objetos que nadie"
+				}
+			]
+		},
+		{
+			"area":"slothtitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Perezoso"
+				},
+				{
+					"tag":"desc",
+					"val":"No has corrido nunca"
+				}
+			]
+		},
+		{
+			"area":"janitortitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Conserje"
+				},
+				{
+					"tag":"desc",
+					"val":"Has descartado la mayoría de bombas"
+				}
+			]
+		},
+		{
+			"area":"onetrickponytitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Solo tengo un truco"
+				},
+				{
+					"tag":"desc",
+					"val":"Has repetido la misma acción"
+				}
+			]
+		},
+		{
+			"area":"jackofalltradestitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Valgo para todo"
+				},
+				{
+					"tag":"desc",
+					"val":"Has usado un gran número de objetos"
+				}
+			]
+		},
+		{
+			"area":"hoggertitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"No lo pienso soltar"
+				},
+				{
+					"tag":"desc",
+					"val":"Ten un objeto más tiempo que nadie"
+				}
+			]
+		},
+		{
+			"area":"hotpotatotitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Patata caliente"
+				},
+				{
+					"tag":"desc",
+					"val":"No tengas objetos casi nunca en las manos"
+				}
+			]
+		},
+		{
+			"area":"killstealertitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Robo de objetivos"
+				},
+				{
+					"tag":"desc",
+					"val":"Has asestado el tiro final"
+				}
+			]
+		},
+		{
+			"area":"mvptitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Jugador de la partida"
+				},
+				{
+					"tag":"desc",
+					"val":"Eres el jugador más valioso"
+				}
+			]
+		},
+		{
+			"area":"deadweighttitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Peso muerto"
+				},
+				{
+					"tag":"desc",
+					"val":"No vales para nada"
+				}
+			]
+		},
+		{
+			"area":"handymantitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Manitas"
+				},
+				{
+					"tag":"desc",
+					"val":"Has reparado más objetos que nadie"
+				}
+			]
+		},
+		{
+			"area":"overchargedtitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Sobrecarga"
+				},
+				{
+					"tag":"desc",
+					"val":"Has cargado más baterías que nadie"
+				}
+			]
+		},
+		{
+			"area":"unassignedtitle",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Olvidable"
+				},
+				{
+					"tag":"desc",
+					"val":"No has hecho nada útil"
+				}
+			]
+		},
+		{
+			"area":"datachangedmessagebox",
+			"data":[
+				{
+					"tag":"title",
+					"val":"Cambio en el jugador principal"
+				},
+				{
+					"tag":"desc",
+					"val":"El jugador principal ha cambiado. Vuelve a iniciar sesión para cargar los nuevos datos."
+				}
+			]
+		},
+		{
+			"area":"credits",
+			"data":[
+				{
+					"tag":"title0",
+					"val":"Productores"
+				},
+				{
+					"tag":"title1",
+					"val":"Desarrollador jefe"
+				},
+				{
+					"tag":"title2",
+					"val":"Dirección de arte"
+				},
+				{
+					"tag":"title3",
+					"val":"Artistas 3D"
+				},
+				{
+					"tag":"title4",
+					"val":"Efectos de sonido"
+				},
+				{
+					"tag":"title5",
+					"val":"Jefe de control de calidad"
+				},
+				{
+					"tag":"title6",
+					"val":"Testers de control de calidad"
+				},
+				{
+					"tag":"title7",
+					"val":"Gestión de redes sociales"
+				},
+				{
+					"tag":"title8",
+					"val":"Colaboraciones externas"
+				},
+				{
+					"tag":"title9",
+					"val":"Menciones especiales"
+				},
+				{
+					"tag":"end",
+					"val":"¡Gracias por jugar!"
+				}
+			]
+		}
+	]
+}
