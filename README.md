@@ -1,5 +1,8 @@
 # ApiTrello
-Automação da api do trello efetuada com Katalon
+
+Automation of trello api using Katalon.
+Automação da api do trello efetuada com Katalon.
+
 Para utilizar a api basta acessar a página https://developers.trello.com/reference/#introduction e seguir as instruções
 
 ##### Instruções para utilizações do projeto abaixo:
